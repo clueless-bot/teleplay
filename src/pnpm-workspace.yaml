@@ -1,0 +1,13 @@
+ignoredBuiltDependencies:
+  - es5-ext
+  - esbuild
+  - event-loop-stats
+  - ffmpeg-static
+  - node-datachannel
+  - protobufjs
+  - sqlite3
+  - utf-8-validate
+  - utp-native
+
+onlyBuiltDependencies:
+  - bufferutil
